@@ -7,7 +7,7 @@ I am Data Analyst. I graduated with honours from the School of International Eco
 
 I am passionate about math modeling, economic analysis, and automation. I always keep learning new things and can bring some innovative ideas to the working process.
 
-<a href="https://www.linkedin.com/in/alina-ermakova-335b93236/"><img src="https://img.shields.io/badge/-alina--ermakova-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alina-ermakova-335b93236/"></a>
+<a href="https://www.linkedin.com/in/alina-ermakova-335b93236/"><img src="https://img.shields.io/badge/-LINKEDIN-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alina-ermakova-335b93236/"></a>
 
 ### My repositories
 
