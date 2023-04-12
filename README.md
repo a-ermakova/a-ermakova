@@ -11,7 +11,7 @@ I am passionate about math modeling, economic analysis, and automation. I always
 
 <a href="https://www.linkedin.com/in/alina-ermakova-335b93236/"><img src="https://img.shields.io/badge/-alina--ermakova-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alina-ermakova-335b93236/"></a>
 
-<a href="https:www.linkedin.com/in/pavel-kurpas-601257191/"><img src="https://img.shields.io/badge/-pavel--kurpas-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alina-ermakova-335b93236/></a>
+
 
   ### My repositories
 
