@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### My name is Alina Ermakova 🙋
+### My name is Alina Grad 🙋
 
 I am Data Analyst. I graduated with honours from the School of International Economic Relations of the Moscow State Institute of International Relations (MGIMO University) and finished data analytics courses arranged by an international online education platform Yandex Practicum. I know Python, SQL, Excel, Tableau, RStudio, and gretl. I also have 6 publications in various science magazines on economic topics, one of which included [building econometric models based on cross-sectional data](https://drive.google.com/file/d/160bedfNoNuI6oKoT5K0unTiJs8yymPCf/view).
 
